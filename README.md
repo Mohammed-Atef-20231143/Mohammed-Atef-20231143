@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">My Language :-</h2>
 
 ###
@@ -36,13 +34,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Contact With Me :-</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
