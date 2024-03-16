@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">My Language :-</h2>
+<h2 align="left">My Languages :-</h2>
 
 ###
 
@@ -33,6 +33,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Contact With Me :-</h2>
 
