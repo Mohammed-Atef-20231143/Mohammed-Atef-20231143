@@ -1,4 +1,12 @@
-<h1 align="center">Hi ! I'm Mohammed Atef Abd El-Kader Bayomi 👋<br>I'm a student in FCAI Cairo University in Egypt.</h1>
+<h1 align="center">Hi ! I'm Mohammed Atef Abd El-Kader Bayomi 👋</h1>
+
+###
+
+<h2 align="left">About Me :-</h2>
+
+###
+
+<p align="left">--> I’m currently learning in FCAI-CU 🌱<br>--> A Future Software Engineer 👨‍💻<br>--> Fun fact: I love reading 📖</p>
 
 ###
 
@@ -37,7 +45,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="mohamed45452020@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100020148558351" target="_blank">
@@ -79,7 +87,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+  <img height="350" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
 
 ###
