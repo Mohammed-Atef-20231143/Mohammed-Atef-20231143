@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohammed-Atef-20231143" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Atef+Abd+El-Kader!;" />
 </h1>
