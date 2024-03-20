@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=35&center=true&vCenter=true&width=600&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Atef+Abd+El-Kader!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=35&center=true&vCenter=true&width=600&height=90&duration=4500&lines=Hi+There!+👋;+I'm+Mohammed+Atef+Abd+El-Kader!;" />
 </h1>
 
 ###
