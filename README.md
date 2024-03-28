@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<h2 align="left">Contact With Me :-</h2>
+<h2 align="left">Connect With Me :-</h2>
 
 ###
 
