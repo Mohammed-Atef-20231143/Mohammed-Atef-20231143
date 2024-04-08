@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=35&center=true&vCenter=true&width=600&height=90&duration=4500&lines=Hi+There!+👋;+I'm+Mohammed+Atef+Abd+El-Kader!;" />
-</h1>
+![Mohammed Atef Abd El-kader](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
 
 ###
 
