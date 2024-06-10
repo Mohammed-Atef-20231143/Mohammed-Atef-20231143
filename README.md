@@ -41,23 +41,22 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://codeforces.com/profile/muhammed_atef" target="_blank">
+  <a href="https://codeforces.com/profile/muhammed_atef" target="_blank" style="text-decoration: none;">
     <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="75" height="50" alt="muhammed_atef" />
   </a>
-    <a href="https://www.facebook.com/profile.php?id=100020148558351" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100020148558351" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="75" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/muhammed_3tef/" target="_blank">
+  <a href="https://www.instagram.com/muhammed_3tef/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-atef-abd-el-kader-b0a408299/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-atef-abd-el-kader-b0a408299/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="40" alt="linkedin logo"  />
   </a>
-  
-  <a href="https://t.me/Mohammed_Atef_1143" target="_blank">
+  <a href="https://t.me/Mohammed_Atef_1143" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="75" height="40" alt="telegram logo"  />
   </a>
 </div>
